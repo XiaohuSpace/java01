@@ -6,6 +6,7 @@ public class Demo {
         System.out.println("hello "+name);
         System.out.println("hello xiao");
         System.out.println("hello hu66");
+        System.out.println("push hello");
         return name;
     }
 }
