@@ -7,6 +7,7 @@ public class Demo {
         System.out.println("hello xiao");
         System.out.println("hello hu66");
         System.out.println("push hello");
+        System.out.println("pull hello");
         return name;
     }
 }
